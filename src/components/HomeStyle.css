@@ -1,0 +1,40 @@
+
+input {
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background: white;
+    width: 300px;
+    
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    margin-top: 30px
+}
+
+
+.cart{
+   margin-top: 30px;
+
+
+    
+        
+}
+.cart-icon{
+    
+    vertical-align: sub;
+
+}
+
+.length{
+    
+    
+     
+     color: red;
+     font-size: 14px;
+    vertical-align: super; 
+    
+}
